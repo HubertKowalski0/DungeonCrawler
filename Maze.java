@@ -110,6 +110,6 @@ public class Maze {
             }
         }
 
-        return Collections.emptyList(); // No path found
+        return Collections.emptyList();
     }
 }
